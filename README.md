@@ -6,4 +6,4 @@ My journey as a Java programmer who's learning C++
 ```g++ -std=c++11 Animal.cpp```
 
 ### To run
-```./a.out```
+```./ a.out```
